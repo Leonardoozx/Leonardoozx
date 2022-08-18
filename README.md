@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook**
 
-- 📫 How to reach me **https://www.linkedin.com/in/leonardo-guimaraes-urci/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonardoozx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardoozx" height="30" width="40" /></a>
