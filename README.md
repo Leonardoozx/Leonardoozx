@@ -19,6 +19,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoozx&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoozx&" alt="leonardoozx" /></p>
-
 
