@@ -9,8 +9,3 @@
 </a>
 </div>
 <br />
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
