@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/leonardo-guimaraes-urci/" target="_blank">
   <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </a>
+
+<br />
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
