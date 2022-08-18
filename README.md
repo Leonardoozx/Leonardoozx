@@ -1,5 +1,5 @@
 <div align="center">
-<span align="left"><font size="5">Hello there! My name is Leonardo</font></span> &emsp;&emsp;&emsp;&emsp;&emsp; <img align="rigth" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+<font size="5"><span align="left">Hello there! My name is Leonardo</span></font> &emsp;&emsp;&emsp;&emsp;&emsp; <img align="rigth" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </div>
 <h3 align="center">A Front-end developer, studying Back-end at Trybe</h3>
 
