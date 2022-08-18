@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hello There! My name is Leonardo</h3>
 
 - 🌱 I’m currently learning **Node.JS**
 
