@@ -1,7 +1,6 @@
-<div align="center">
   <span align="center">Hello there! My name is Leonardo</span>
   <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
-</div>
+
 
 <h3 align="center">A Front-end developer, studying Back-end at Trybe</h3>
 
