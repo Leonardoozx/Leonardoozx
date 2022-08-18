@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoozx&show_icons=true&locale=en" alt="leonardoozx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoozx&" alt="leonardoozx" /></p>
+
+<a href="https://github.com/ankitwarbhe">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoozx&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+</a>
