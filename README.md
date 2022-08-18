@@ -1,7 +1,7 @@
 <html>
 <head>
  <style>
-   ,title {
+   .title {
    display: flex;
    flex-direction: column;
   }
