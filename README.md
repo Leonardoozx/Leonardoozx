@@ -1,4 +1,4 @@
-## Olá
+## Hello there! My name is Leonardo
 
 <a href="https://www.linkedin.com/in/leonardo-guimaraes-urci/" target="_blank">
 
