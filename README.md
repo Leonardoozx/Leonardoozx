@@ -1,8 +1,7 @@
-## Hello there! My name is Leonardo
+#### Hello there! My name is Leonardo
 
 # Concat with me
 
 <a href="https://www.linkedin.com/in/leonardo-guimaraes-urci/" target="_blank">
-
-<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+  <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </a>
