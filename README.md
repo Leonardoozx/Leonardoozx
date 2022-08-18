@@ -1,6 +1,4 @@
- <pre><span align="left">Hello there! My name is Leonardo</span>
- 
-</pre>
+ <pre><span align="left">Hello there! My name is Leonardo</span></pre>
 
 <h3 align="center">A Front-end developer, studying Back-end at Trybe</h3>
 
