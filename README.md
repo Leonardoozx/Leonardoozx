@@ -1,4 +1,4 @@
- <pre><span align="left">Hello there! My name is Leonardo</span>        <img align="rigth" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+ <pre><span align="left">Hello there! My name is Leonardo</span> <img align="rigth" alt="bilgehangecici | LinkedIn" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </pre>
 
 <h3 align="center">A Front-end developer, studying Back-end at Trybe</h3>
