@@ -1,3 +1,5 @@
+<html>
+<body>
 <div align="center">
 <span align="left">Hello there! My name is Leonardo</span> &emsp;&emsp;&emsp;&emsp;&emsp; <img align="rigth" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </div>
@@ -16,5 +18,6 @@
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoozx&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
 </div>
-
+ </body>
+</html>
 
