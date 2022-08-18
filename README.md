@@ -1,4 +1,4 @@
-  <div align="center" style="inline-block">
+  <div align="center">
   
   <h3 align="left">Hello there! My name is Leonardo</h3>
   <img align="rigth" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
