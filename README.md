@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardoozx" alt="leonardoozx" /></a> </p>
 
-- 🌱 I’m currently learning: **Node.JS**
+- 🌱 I’m currently learning: **Node.JS** and **Next.JS**
 
 - 💬 Ask me about: **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook**
 
