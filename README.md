@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardoozx" alt="leonardoozx" /></a> </p>
 
-- 🌱 I’m currently learning: **Node.JS** and **Next.JS**
+- 🌱 I’m currently learning: **Node.JS** and **TypeScript**
 
-- 💬 Ask me about: **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook**
+- 💬 Ask me about: **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook, Next.JS**
 
 - Contact With me in: <img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 
