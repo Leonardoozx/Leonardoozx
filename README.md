@@ -9,7 +9,9 @@
 
 - 💬 Ask me about: **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook, Next.JS**
 
-- Contact With me in: <img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+- Contact with me in: <a target="https://www.linkedin.com/in/leonardoozx/">
+ <img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+ </a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"></p>
