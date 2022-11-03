@@ -1,21 +1,56 @@
+###  Olá! Bem vindo ao meu Github:heavy_exclamation_mark:
 
-## Hello there! My name is Leonardo
 
-<h3 align="center">I'm a Front-end developer, studying Back-end at Trybe</h3>
+📚 Com 9 anos de idade, eu assisti meu pai desmontar e montar meu antigo computador na minha frente, e foi aí que minha paixão pela tecnologia se iniciou. E também foi neste momento que tive a certeza de que gostaria de trabalhar com alguma área voltada à tecnologia.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardoozx" alt="leonardoozx" /></a> </p>
+👩🏻‍🎓 Aos 18 anos, conheci a Trybe (por meio de um podcast), uma escola de tecnologia que oferece uma formação completa voltada para o mercado. Conhecendo esta instituição e fazendo meu primeiro contato com a programação, rapidamente, me apaixonei pela área.
 
-- 🌱 I’m currently learning: **Node.JS** and **NoSQL (MongoDB)**
+<hr>
 
-- 💬 Ask me about: **Docker, Redux, React, JavaScript, HTML5, CSS3, Context, React Hook, Next.JS, Typescript**
+👩🏻‍🎓 <b>Formação:</b> Estudante de desenvolvimento Full-stack (Trybe), Formado em Desenvolvimento Web Front-End (Trybe) e formado em Fundamentos do Desenvolvimento Web (Trybe).
 
-- Contact with me in: <a href="https://www.linkedin.com/in/leonardoozx/" target="_blank"><img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
- </a>
+📟 <b>Stacks:</b> JavaScript, React.JS, Next.JS, Redux, Tailwind, MaterialUI, Node.JS, Express.JS, MySQL, SQL, Sequelize, MongoDB e Typescript
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"></p>
+⚒️ <b>Ferramentas:</b> Figma, Trello, Registro.BR
 
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoozx&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+<hr>
+<h4> Linguagens que utilizo:</h4>
+
+<div display="flex" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= "30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= "30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height= "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height= "30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height= "50px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height= "40px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height= "40px"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"  height= "40px"  />
+<img src="https://data.jsdelivr.com/v1/package/npm/nextjs/badge)](https://www.jsdelivr.com/package/npm/nextjs" height="40px"  />
 </div>
+<hr>
+<h4> Linguagens que estou estudando:</h4>
+<div display="flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= "40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height= "50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height= "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "30px"  />
+</div>
+<hr>
 
+<h4> Posso fazer desenhos e layouts com:</h4>
+<div display="flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "30px"/>
+</div>
+<hr>
+
+<h4> Me encontre no linkedin</h4>
+<div><a href="https://www.linkedin.com/in/leonardoozx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>  </div>
+
+<h4> Ou me mande um e-mail: leonardoguimaraesurci@gmail.com</h4>
+
+ 
