@@ -3,7 +3,7 @@
 
 📚 Com 9 anos de idade, eu assisti meu pai desmontar e montar meu antigo computador na minha frente, e foi aí que minha paixão pela tecnologia se iniciou. E também foi neste momento que tive a certeza de que gostaria de trabalhar com alguma área voltada à tecnologia.
 
-👩🏻‍🎓 Aos 18 anos, conheci a Trybe (por meio de um podcast), uma escola de tecnologia que oferece uma formação completa voltada para o mercado. Conhecendo esta instituição e fazendo meu primeiro contato com a programação, rapidamente, me apaixonei pela área.
+👩🏻‍🎓 Aos 18 anos, conheci a Trybe (por meio de um podcast), uma escola de tecnologia que oferece uma formação completa voltada para o mercado. Conhecendo esta instituição e fazendo meu primeiro contato com a programação, rapidamente me apaixonei pela área.
 
 <hr>
 
