@@ -32,17 +32,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= "30px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" height= "30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height= "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height= "40px"/>
 </div>
 <hr>
 <h4> Linguagens que estou estudando:</h4>
 <div display="flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height= "50px"/>
+<img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" height="50px" />
 </div>
 <hr>
 
 <h4> Posso fazer desenhos e layouts com:</h4>
 <div display="flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.png" height= "30px"/>
 </div>
 <hr>
 
