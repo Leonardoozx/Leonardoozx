@@ -37,13 +37,13 @@
 <hr>
 <h4> Linguagens que estou estudando:</h4>
 <div display="flex">
-<img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" height="50px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" height="50px" />
 </div>
 <hr>
 
 <h4> Posso fazer desenhos e layouts com:</h4>
 <div display="flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.png" height= "30px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height= "30px"/>
 </div>
 <hr>
 
