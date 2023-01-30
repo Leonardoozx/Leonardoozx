@@ -9,7 +9,7 @@
 
 👩🏻‍🎓 <b>Formação:</b> Estudante de desenvolvimento Full-stack (Trybe), Formado em Desenvolvimento Web Front-End (Trybe) e formado em Fundamentos do Desenvolvimento Web (Trybe).
 
-📟 <b>Stacks:</b> JavaScript, TypeScript, React.JS, Node.JS, Express.JS, SQL (MySQL), Sequelize, NoSQL (MongoDB)
+📟 <b>Stacks:</b> JavaScript, TypeScript, React.js, Next.js, Node.js, Express, SQL (MySQL), Sequelize, NoSQL (MongoDB)
 
 ⚒️ <b>Ferramentas:</b> Figma, Trello, Registro.BR
 
