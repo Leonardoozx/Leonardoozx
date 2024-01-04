@@ -1,4 +1,4 @@
-###  Olá! Bem vindo ao meu Github:heavy_exclamation_mark:
+###  Olá! Bem vindo ao meu Github
 
 
 📚 Com 9 anos de idade, eu assisti meu pai desmontar e montar meu antigo computador na minha frente, e foi aí que minha paixão pela tecnologia se iniciou. E também foi neste momento que tive a certeza de que gostaria de trabalhar com alguma área voltada à tecnologia.
