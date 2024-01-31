@@ -30,7 +30,8 @@
   
     - Node.js, Javascript/Typescript
     - Python (com scripts de migração de dados entre bancos de dados com diferentes estruturas)
-    - Arquitetura de microsserviços com BFF utilizando Arquitetura Hexagonal, fazendo conexão entre micros serviços com gRPC, e serviços de mensageria como RabbitMQ
+    - Arquitetura de microsserviços com BFF utilizando Arquitetura Hexagonal, fazendo conexão entre micros serviços com gRPC
+    - RabbitMQ
     - Manutenção em serviços legados utilizando versões antigas de PHP e Javascript Vanilla
     - PostgreSQL e Knex (low-level ORM)
     - Integração com o GCP Bucket por meio de bibliotecas do próprio GCP
@@ -50,6 +51,7 @@
     - MySQL, PostgreSQL, MongoDB
     - Sequelize ( full-blown ORM )
     - Knex ( low-level ORM )
+    - gRPC para conexão entre micros serviços
    </details> 
 
    <details open>
@@ -65,7 +67,7 @@
 
 <hr>
 
-👩🏻‍🎓 <b>Formação:</b> Formado em Desenvolvimento Full-stack pela Trybe.
+- 👩🏻‍🎓 <b>Formação:</b> Formado em Desenvolvimento Full-stack pela Trybe.
 
 <hr>
 <h4> Me encontre no linkedin</h4>
