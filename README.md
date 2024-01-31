@@ -15,8 +15,9 @@
         - Organização, fazendo com que eu consiga planejar e distribuir melhor meu tempo, sempre definindo prioridades e facilitando até mesmo minha tomada de decisões já que minha organização me proporciona clareza
     - Comunicação
       - Aprimorando tanto diariamente em daily meetings/standup meetings quanto também em apresentações
-         - Apresentação feita sobre uma visão geral básica da ferramenta SonarCloud para outros desenvolvedores da Climatempo de vários times
          - Apresentação feita para todas as equipes da Climatempo, onde falei sobre atualizações de um produto novo que estava trabalhando
+         - Apresentação feita sobre como a ferramenta SonarCloud estava melhorando a qualidade de código de uma maneira geral
+         - Apresentação feita sobre uma visão geral básica da ferramenta SonarCloud para outros desenvolvedores da Climatempo de vários times
     - Adaptabilidade/Resiliência
       - Diversas vezes trabalhando em diferentes produtso com diferentes ferramentas e linguagens de programação
     - Trabalho em equipe com pair programming
@@ -35,9 +36,32 @@
     - Integração com o GCP Bucket por meio de bibliotecas do próprio GCP
   </details>
 </details>
+
 <hr>
 
-📟 <b>Stacks:</b> Node.js, MySQL, PostgreSQL, Arquitetura hexagonal, Arquitetura MVC, React.js, Next.js, Express, SQL (MySQL), Sequelize, NoSQL (MongoDB)
+- <details open> <summary> 📟 <b>Stacks:</b> Linguagens, Arquiteturas de Software, ...</summary>
+   <details open>
+    
+    <summary> Principais stacks: </summary> 
+    
+    - Node.js ( Javascript / Typescript )
+    - Python ( criação de scripts de automação / crawling / web scraping )
+    - RabbitMQ
+    - MySQL, PostgreSQL, MongoDB
+    - Sequelize ( full-blown ORM )
+    - Knex ( low-level ORM )
+   </details> 
+
+   <details open>
+    
+    <summary> Arquiteturas de software que conheço: </summary> 
+    
+    - Arquitetura de Microsserviços com BFF ( Back-end For Front-end )
+      - Fazendo a conexão entre microsserviços, e entre microsserviços e BFF com gRPC 
+    - Arquitetura Hexagonal
+    - Arquitetura MVC
+   </details> 
+</details>
 
 <hr>
 
